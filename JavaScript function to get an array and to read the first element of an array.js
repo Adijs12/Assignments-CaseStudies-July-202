@@ -29,5 +29,4 @@ function Input() {
     return a;
 }
 const userArray = Input();
-console.log("Your array:", userArray);
 console.log(checkFirst(userArray));
